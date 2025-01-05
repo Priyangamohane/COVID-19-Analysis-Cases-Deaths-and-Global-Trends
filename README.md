@@ -1,9 +1,13 @@
 Project Title: COVID-19 Analysis: Cases, Deaths, and Global Trends
+
 Developer: Priyanga M
+
 Description: This project provides an in-depth analysis of the COVID-19 pandemic's impact across the globe. The dataset is transformed to focus on daily case confirmations by melting the date columns into rows and converting them into a datetime format for accurate time-series analysis. The data is sorted by date and grouped to observe trends in confirmed cases over time.
+
 Goals and Objectives:
 	Understand the Global Spread of COVID-19: Analyze the confirmed cases and death rates across different countries and continents to identify patterns and trends.
 	Evaluate the Pandemic's Impact: Assess the impact of COVID-19 on various countries by examining key metrics like the total number of cases, deaths, and growth rates.
+
 Key analyses include:
 •	Identifying the top 10 countries by total confirmed cases.
 •	Analyzing the countries that took the longest to reach 1,000 confirmed cases.
